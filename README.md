@@ -1,6 +1,6 @@
 # World Reports
 
-Turns annual human-rights report PDFs from four organisations into a clean, per-country corpus.
+Turns annual human rights report PDFs from four organisations into a clean, per-country corpus.
 
 - Amnesty International (AI)
 - Human Rights Watch (HRW)
@@ -28,11 +28,11 @@ uv venv && source .venv/bin/activate
 uv sync
 ```
 
-### 2. Provide the input PDFs
+### 2. input PDFs
 
 <!-- see if we can commit them or otherwise make them easily accessible -->
 
-The source PDFs are **not** included in the repo. Place them under `input/` following the [input structure](#input-structure). The per-organisation extraction config (the human-assisted work of locating each country in each report) is already committed under `config/`, so you go straight from the input PDFs to the final output - no manual extraction needed.
+The source PDFs are included in the repo under `input/` 
 
 ### 3. Build
 
