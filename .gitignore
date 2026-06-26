@@ -8,7 +8,6 @@
 _tmp/*
 output/*
 prod_out/*
-input/*
 intermediate/*
 __pycache__/
 
