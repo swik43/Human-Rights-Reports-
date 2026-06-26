@@ -1,0 +1,21 @@
+{
+  "2022_GRID.pdf": [
+    { "name": "Sub-Saharan Africa", "true_page": 22 },
+    { "name": "DRC", "true_page": 34 },
+    { "name": "Somalia", "true_page": 36 },
+    { "name": "Madagascar", "true_page": 38 },
+    { "name": "Middle East And North Africa", "true_page": 40 },
+    { "name": "Yemen", "true_page": 50 },
+    { "name": "East Asia And The Pacific", "true_page": 52 },
+    { "name": "Myanmar", "true_page": 60 },
+    { "name": "Philippines", "true_page": 62 },
+    { "name": "Tonga", "true_page": 64 },
+    { "name": "South Asia", "true_page": 66 },
+    { "name": "Pakistan", "true_page": 76 },
+    { "name": "Americas", "true_page": 78 },
+    { "name": "Europe And Central Asia", "true_page": 88 },
+    { "name": "Ukraine", "true_page": 94 },
+    { "name": "Burkina Faso", "true_page": 104 },
+    { "name": "South Sudan", "true_page": 108 }
+  ]
+}

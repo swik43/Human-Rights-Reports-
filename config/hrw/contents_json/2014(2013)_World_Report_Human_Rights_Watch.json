@@ -1,0 +1,352 @@
+{
+  "2014(2013)_World_Report_Human_Rights_Watch.pdf": [
+    {
+      "name": "Angola",
+      "report_page": 78
+    },
+    {
+      "name": "Burundi",
+      "report_page": 84
+    },
+    {
+      "name": "Central African Republic",
+      "report_page": 90
+    },
+    {
+      "name": "Côte d'Ivoire",
+      "report_page": 96
+    },
+    {
+      "name": "Democratic Republic Of Congo",
+      "report_page": 103
+    },
+    {
+      "name": "Equatorial Guinea",
+      "report_page": 108
+    },
+    {
+      "name": "Eritrea",
+      "report_page": 113
+    },
+    {
+      "name": "Ethiopia",
+      "report_page": 119
+    },
+    {
+      "name": "Guinea",
+      "report_page": 124
+    },
+    {
+      "name": "Kenya",
+      "report_page": 129
+    },
+    {
+      "name": "Liberia",
+      "report_page": 136
+    },
+    {
+      "name": "Mali",
+      "report_page": 143
+    },
+    {
+      "name": "Nigeria",
+      "report_page": 148
+    },
+    {
+      "name": "Rwanda",
+      "report_page": 155
+    },
+    {
+      "name": "Somalia",
+      "report_page": 161
+    },
+    {
+      "name": "South Africa",
+      "report_page": 169
+    },
+    {
+      "name": "South Sudan",
+      "report_page": 176
+    },
+    {
+      "name": "Sudan",
+      "report_page": 182
+    },
+    {
+      "name": "Uganda",
+      "report_page": 188
+    },
+    {
+      "name": "Zimbabwe",
+      "report_page": 194
+    },
+    {
+      "name": "Argentina",
+      "report_page": 204
+    },
+    {
+      "name": "Bolivia",
+      "report_page": 211
+    },
+    {
+      "name": "Brazil",
+      "report_page": 216
+    },
+    {
+      "name": "Chile",
+      "report_page": 224
+    },
+    {
+      "name": "Colombia",
+      "report_page": 230
+    },
+    {
+      "name": "Cuba",
+      "report_page": 237
+    },
+    {
+      "name": "Ecuador",
+      "report_page": 243
+    },
+    {
+      "name": "Guatemala",
+      "report_page": 249
+    },
+    {
+      "name": "Haiti",
+      "report_page": 255
+    },
+    {
+      "name": "Honduras",
+      "report_page": 260
+    },
+    {
+      "name": "Mexico",
+      "report_page": 265
+    },
+    {
+      "name": "Peru",
+      "report_page": 273
+    },
+    {
+      "name": "Venezuela",
+      "report_page": 278
+    },
+    {
+      "name": "Afghanistan",
+      "report_page": 286
+    },
+    {
+      "name": "Australia",
+      "report_page": 292
+    },
+    {
+      "name": "Bangladesh",
+      "report_page": 298
+    },
+    {
+      "name": "Burma",
+      "report_page": 305
+    },
+    {
+      "name": "Cambodia",
+      "report_page": 313
+    },
+    {
+      "name": "China",
+      "report_page": 319
+    },
+    {
+      "name": "India",
+      "report_page": 334
+    },
+    {
+      "name": "Indonesia",
+      "report_page": 342
+    },
+    {
+      "name": "Malaysia",
+      "report_page": 350
+    },
+    {
+      "name": "Nepal",
+      "report_page": 356
+    },
+    {
+      "name": "North Korea",
+      "report_page": 361
+    },
+    {
+      "name": "Pakistan",
+      "report_page": 366
+    },
+    {
+      "name": "Papua New Guinea",
+      "report_page": 373
+    },
+    {
+      "name": "Philippines",
+      "report_page": 377
+    },
+    {
+      "name": "Singapore",
+      "report_page": 385
+    },
+    {
+      "name": "Sri Lanka",
+      "report_page": 387
+    },
+    {
+      "name": "Thailand",
+      "report_page": 393
+    },
+    {
+      "name": "Vietnam",
+      "report_page": 399
+    },
+    {
+      "name": "Armenia",
+      "report_page": 406
+    },
+    {
+      "name": "Azerbaijan",
+      "report_page": 412
+    },
+    {
+      "name": "Belarus",
+      "report_page": 419
+    },
+    {
+      "name": "Bosnia And Herzegovina",
+      "report_page": 424
+    },
+    {
+      "name": "European Union",
+      "report_page": 430
+    },
+    {
+      "name": "Georgia",
+      "report_page": 453
+    },
+    {
+      "name": "Kazakhstan",
+      "report_page": 459
+    },
+    {
+      "name": "Kyrgyzstan",
+      "report_page": 465
+    },
+    {
+      "name": "Russia",
+      "report_page": 470
+    },
+    {
+      "name": "Serbia",
+      "report_page": 482
+    },
+    {
+      "name": "Kosovo",
+      "report_page": 487
+    },
+    {
+      "name": "Tajikistan",
+      "report_page": 492
+    },
+    {
+      "name": "Turkey",
+      "report_page": 498
+    },
+    {
+      "name": "Turkmenistan",
+      "report_page": 503
+    },
+    {
+      "name": "Ukraine",
+      "report_page": 508
+    },
+    {
+      "name": "Uzbekistan",
+      "report_page": 514
+    },
+    {
+      "name": "Algeria",
+      "report_page": 522
+    },
+    {
+      "name": "Bahrain",
+      "report_page": 526
+    },
+    {
+      "name": "Egypt",
+      "report_page": 532
+    },
+    {
+      "name": "Iran",
+      "report_page": 539
+    },
+    {
+      "name": "Iraq",
+      "report_page": 547
+    },
+    {
+      "name": "Israel/Palestine",
+      "report_page": 553
+    },
+    {
+      "name": "Jordan",
+      "report_page": 562
+    },
+    {
+      "name": "Kuwait",
+      "report_page": 567
+    },
+    {
+      "name": "Lebanon",
+      "report_page": 571
+    },
+    {
+      "name": "Libya",
+      "report_page": 578
+    },
+    {
+      "name": "Morocco/Western Sahara",
+      "report_page": 586
+    },
+    {
+      "name": "Oman",
+      "report_page": 592
+    },
+    {
+      "name": "Qatar",
+      "report_page": 596
+    },
+    {
+      "name": "Saudi Arabia",
+      "report_page": 600
+    },
+    {
+      "name": "Syria",
+      "report_page": 605
+    },
+    {
+      "name": "Tunisia",
+      "report_page": 616
+    },
+    {
+      "name": "United Arab Emirates",
+      "report_page": 622
+    },
+    {
+      "name": "Yemen",
+      "report_page": 626
+    },
+    {
+      "name": "Canada",
+      "report_page": 636
+    },
+    {
+      "name": "United States",
+      "report_page": 642
+    }
+  ]
+}

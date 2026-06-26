@@ -1,0 +1,13 @@
+[project]
+name = "world_reports"
+version = "0.1.0"
+description = "Human rights report processing pipeline"
+requires-python = ">=3.11"
+dependencies = [
+    "pymupdf>=1.25.5",
+    "pymupdf4llm>=1.27.2.1",
+    "pypdf>=6.9.1",
+    "pypdfium2>=5.6.0",
+    "rich>=14.0.0",
+    "markdownify>=1.2.2",
+]

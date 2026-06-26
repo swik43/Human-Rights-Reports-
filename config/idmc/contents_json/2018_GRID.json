@@ -1,0 +1,26 @@
+{
+  "2018_GRID.pdf": [
+    { "name": "Sub-Saharan Africa", "true_page": 19 },
+    { "name": "Ethiopia", "true_page": 24 },
+    { "name": "Cameroon", "true_page": 26 },
+    { "name": "Nigeria", "true_page": 28 },
+    { "name": "Middle East And North Africa", "true_page": 30 },
+    { "name": "Syria_A", "true_page": 34 },
+    { "name": "Libya", "true_page": 36 },
+    { "name": "East Asia And Pacific", "true_page": 38 },
+    { "name": "Japan", "true_page": 40 },
+    { "name": "Philippines", "true_page": 42 },
+    { "name": "South Asia", "true_page": 44 },
+    { "name": "Afghanistan", "true_page": 46 },
+    { "name": "India", "true_page": 48 },
+    { "name": "Americas", "true_page": 49 },
+    { "name": "United States", "true_page": 52 },
+    { "name": "Colombia", "true_page": 54 },
+    { "name": "Europe And Central Asia", "true_page": 56, "end_page": 62 },
+    { "name": "Medellin And San Salvador", "true_page": 91 },
+    { "name": "Flood Displacement Risk", "true_page": 94 },
+    { "name": "Nairobi", "true_page": 98 },
+    { "name": "Displacement Profiling In Urban Areas", "true_page": 100 },
+    { "name": "Syria_B", "true_page": 106 }
+  ]
+}

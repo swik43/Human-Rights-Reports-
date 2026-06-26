@@ -1,0 +1,30 @@
+{
+  "2004_Global.pdf": [
+    {"name": "Africa", "true_page": 39, "end_page": 45},
+    {"name": "Americas", "true_page": 45, "end_page": 50},
+    {"name": "Asia", "true_page": 50, "end_page": 56},
+    {"name": "Europe", "true_page": 56, "end_page": 60},
+    {"name": "Middle_East", "true_page": 60, "end_page": 63}
+  ],
+  "2005_Global.pdf": [
+    {"name": "Africa", "true_page": 51, "end_page": 56},
+    {"name": "Americas", "true_page": 56, "end_page": 62},
+    {"name": "Asia", "true_page": 62, "end_page": 69},
+    {"name": "Europe", "true_page": 69, "end_page": 74},
+    {"name": "Middle_East", "true_page": 74, "end_page": 77}
+  ],
+  "2006_Global.pdf": [
+    {"name": "Africa", "true_page": 23, "end_page": 37},
+    {"name": "Americas", "true_page": 37, "end_page": 43},
+    {"name": "Asia", "true_page": 43, "end_page": 51},
+    {"name": "Europe", "true_page": 51, "end_page": 59},
+    {"name": "Middle_East", "true_page": 59, "end_page": 65}
+  ],
+  "2007_Global.pdf": [
+    {"name": "Africa", "true_page": 23, "end_page": 43},
+    {"name": "Americas", "true_page": 43, "end_page": 53},
+    {"name": "Middle_East", "true_page": 53, "end_page": 65},
+    {"name": "Asia", "true_page": 65, "end_page": 79},
+    {"name": "Europe", "true_page": 79, "end_page": 89}
+  ]
+}

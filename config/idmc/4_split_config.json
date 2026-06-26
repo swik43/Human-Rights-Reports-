@@ -1,0 +1,2399 @@
+{
+  "2004_Global.pdf": {
+    "source_path": "input/wr/idmc/2004_Global.pdf",
+    "countries": [
+      {
+        "name": "Housing, Land, and Property",
+        "true_page": 27,
+        "end_page": 31
+      },
+      {
+        "name": "Africa",
+        "true_page": 40,
+        "end_page": 45
+      },
+      {
+        "name": "Americas",
+        "true_page": 46,
+        "end_page": 50
+      },
+      {
+        "name": "Asia-Pacific",
+        "true_page": 51,
+        "end_page": 56
+      },
+      {
+        "name": "Europe",
+        "true_page": 57,
+        "end_page": 60
+      },
+      {
+        "name": "Middle_East",
+        "true_page": 61,
+        "end_page": 64
+      }
+    ]
+  },
+  "2005_Global.pdf": {
+    "source_path": "input/wr/idmc/2005_Global.pdf",
+    "countries": [
+      {
+        "name": "Housing, Land, and Property",
+        "true_page": 32,
+        "end_page": 36
+      },
+      {
+        "name": "Africa",
+        "true_page": 52,
+        "end_page": 56
+      },
+      {
+        "name": "Americas",
+        "true_page": 57,
+        "end_page": 62
+      },
+      {
+        "name": "Asia",
+        "true_page": 63,
+        "end_page": 69
+      },
+      {
+        "name": "Europe",
+        "true_page": 70,
+        "end_page": 74
+      },
+      {
+        "name": "Middle_East",
+        "true_page": 75,
+        "end_page": 78
+      }
+    ]
+  },
+  "2006_Global.pdf": {
+    "source_path": "input/wr/idmc/2006_Global.pdf",
+    "countries": [
+      {
+        "name": "Africa",
+        "true_page": 25,
+        "end_page": 37
+      },
+      {
+        "name": "Americas",
+        "true_page": 39,
+        "end_page": 43
+      },
+      {
+        "name": "Asia",
+        "true_page": 45,
+        "end_page": 51
+      },
+      {
+        "name": "Europe",
+        "true_page": 53,
+        "end_page": 59
+      },
+      {
+        "name": "Middle_East",
+        "true_page": 61,
+        "end_page": 65
+      },
+      {
+        "name": "Housing, Land, and Property",
+        "true_page": 82,
+        "end_page": 87
+      }
+    ]
+  },
+  "2007_Global.pdf": {
+    "source_path": "input/wr/idmc/2007_Global.pdf",
+    "countries": [
+      {
+        "name": "Africa",
+        "true_page": 24,
+        "end_page": 42
+      },
+      {
+        "name": "Americas",
+        "true_page": 44,
+        "end_page": 52
+      },
+      {
+        "name": "Middle_East",
+        "true_page": 54,
+        "end_page": 64
+      },
+      {
+        "name": "Asia",
+        "true_page": 66,
+        "end_page": 78
+      },
+      {
+        "name": "Europe",
+        "true_page": 80,
+        "end_page": 90
+      }
+    ]
+  },
+  "2008_Global.pdf": {
+    "source_path": "input/wr/idmc/2008_Global.pdf",
+    "countries": [
+      {
+        "name": "IDP's Protection needs and risks",
+        "true_page": 21,
+        "end_page": 25
+      },
+      {
+        "name": "Durable solutions",
+        "true_page": 25,
+        "end_page": 28
+      },
+      {
+        "name": "National Responses",
+        "true_page": 28,
+        "end_page": 30
+      },
+      {
+        "name": "Car",
+        "true_page": 38,
+        "end_page": 39
+      },
+      {
+        "name": "Chad",
+        "true_page": 39,
+        "end_page": 40
+      },
+      {
+        "name": "Cote D'Ivoire",
+        "true_page": 40,
+        "end_page": 41
+      },
+      {
+        "name": "Drc",
+        "true_page": 41,
+        "end_page": 42
+      },
+      {
+        "name": "Ethiopia",
+        "true_page": 42,
+        "end_page": 43
+      },
+      {
+        "name": "Kenya",
+        "true_page": 43,
+        "end_page": 44
+      },
+      {
+        "name": "Nigeria",
+        "true_page": 44,
+        "end_page": 45
+      },
+      {
+        "name": "Somalia",
+        "true_page": 45,
+        "end_page": 46
+      },
+      {
+        "name": "Sudan",
+        "true_page": 46,
+        "end_page": 48
+      },
+      {
+        "name": "Uganda",
+        "true_page": 48,
+        "end_page": 49
+      },
+      {
+        "name": "Zimbabwe",
+        "true_page": 49,
+        "end_page": 50
+      },
+      {
+        "name": "Rwanda",
+        "true_page": 50,
+        "end_page": 50
+      },
+      {
+        "name": "Burundi",
+        "true_page": 50,
+        "end_page": 51
+      },
+      {
+        "name": "Algeria",
+        "true_page": 51,
+        "end_page": 51
+      },
+      {
+        "name": "Eritrea",
+        "true_page": 51,
+        "end_page": 52
+      },
+      {
+        "name": "Senegal",
+        "true_page": 52,
+        "end_page": 52
+      },
+      {
+        "name": "Liberia",
+        "true_page": 52,
+        "end_page": 53
+      },
+      {
+        "name": "Congo",
+        "true_page": 53,
+        "end_page": 53
+      },
+      {
+        "name": "Angola",
+        "true_page": 53,
+        "end_page": 53
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 58,
+        "end_page": 59
+      },
+      {
+        "name": "Bangladesh",
+        "true_page": 59,
+        "end_page": 60
+      },
+      {
+        "name": "India",
+        "true_page": 60,
+        "end_page": 61
+      },
+      {
+        "name": "Indonesia",
+        "true_page": 61,
+        "end_page": 62
+      },
+      {
+        "name": "Myanmar",
+        "true_page": 62,
+        "end_page": 63
+      },
+      {
+        "name": "Nepal",
+        "true_page": 63,
+        "end_page": 64
+      },
+      {
+        "name": "Pakistan",
+        "true_page": 64,
+        "end_page": 65
+      },
+      {
+        "name": "Philippines",
+        "true_page": 65,
+        "end_page": 66
+      },
+      {
+        "name": "Sri Lanka",
+        "true_page": 66,
+        "end_page": 67
+      },
+      {
+        "name": "Timor-Leste",
+        "true_page": 67,
+        "end_page": 67
+      },
+      {
+        "name": "Azerbaijan",
+        "true_page": 71,
+        "end_page": 72
+      },
+      {
+        "name": "Bosnia And Herzegovina",
+        "true_page": 72,
+        "end_page": 73
+      },
+      {
+        "name": "Georgia",
+        "true_page": 73,
+        "end_page": 74
+      },
+      {
+        "name": "Russia",
+        "true_page": 74,
+        "end_page": 75
+      },
+      {
+        "name": "Turkey",
+        "true_page": 75,
+        "end_page": 76
+      },
+      {
+        "name": "Serbia And Kosovo",
+        "true_page": 76,
+        "end_page": 77
+      },
+      {
+        "name": "Croatia",
+        "true_page": 77,
+        "end_page": 77
+      },
+      {
+        "name": "The Former Yugoslav Republic Of Macedonia",
+        "true_page": 77,
+        "end_page": 78
+      },
+      {
+        "name": "Armenia",
+        "true_page": 78,
+        "end_page": 78
+      },
+      {
+        "name": "Cyprus",
+        "true_page": 78,
+        "end_page": 79
+      },
+      {
+        "name": "Turkmenistan",
+        "true_page": 79,
+        "end_page": 79
+      },
+      {
+        "name": "Uzbekistan",
+        "true_page": 79,
+        "end_page": 79
+      },
+      {
+        "name": "Iraq",
+        "true_page": 83,
+        "end_page": 84
+      },
+      {
+        "name": "Occupied Palestinian Territory",
+        "true_page": 84,
+        "end_page": 85
+      },
+      {
+        "name": "Lebanon",
+        "true_page": 85,
+        "end_page": 86
+      },
+      {
+        "name": "Yemen",
+        "true_page": 86,
+        "end_page": 87
+      },
+      {
+        "name": "Israel",
+        "true_page": 87,
+        "end_page": 87
+      },
+      {
+        "name": "Syria",
+        "true_page": 87,
+        "end_page": 87
+      },
+      {
+        "name": "Peru",
+        "true_page": 90,
+        "end_page": 91
+      },
+      {
+        "name": "Colombia",
+        "true_page": 91,
+        "end_page": 92
+      },
+      {
+        "name": "Mexico",
+        "true_page": 92,
+        "end_page": 92
+      },
+      {
+        "name": "Guatemala",
+        "true_page": 92,
+        "end_page": 92
+      }
+    ]
+  },
+  "2009_Global.pdf": {
+    "source_path": "input/wr/idmc/2009_Global.pdf",
+    "countries": [
+      {
+        "name": "IDPs in displacement",
+        "true_page": 18,
+        "end_page": 21
+      },
+      {
+        "name": "Durable solutions",
+        "true_page": 21,
+        "end_page": 24
+      },
+      {
+        "name": "Responses to internal displacement",
+        "true_page": 24,
+        "end_page": 33
+      },
+      {
+        "name": "Car",
+        "true_page": 33,
+        "end_page": 34
+      },
+      {
+        "name": "Chad",
+        "true_page": 34,
+        "end_page": 35
+      },
+      {
+        "name": "Cote D'Ivoire",
+        "true_page": 35,
+        "end_page": 36
+      },
+      {
+        "name": "Drc",
+        "true_page": 36,
+        "end_page": 37
+      },
+      {
+        "name": "Ethiopia",
+        "true_page": 37,
+        "end_page": 38
+      },
+      {
+        "name": "Kenya",
+        "true_page": 38,
+        "end_page": 39
+      },
+      {
+        "name": "Nigeria",
+        "true_page": 39,
+        "end_page": 40
+      },
+      {
+        "name": "Somalia",
+        "true_page": 40,
+        "end_page": 41
+      },
+      {
+        "name": "Sudan",
+        "true_page": 41,
+        "end_page": 43
+      },
+      {
+        "name": "Uganda",
+        "true_page": 43,
+        "end_page": 44
+      },
+      {
+        "name": "Zimbabwe",
+        "true_page": 44,
+        "end_page": 45
+      },
+      {
+        "name": "Algeria",
+        "true_page": 45,
+        "end_page": 45
+      },
+      {
+        "name": "Burundi",
+        "true_page": 45,
+        "end_page": 46
+      },
+      {
+        "name": "Eritrea",
+        "true_page": 46,
+        "end_page": 46
+      },
+      {
+        "name": "Niger",
+        "true_page": 46,
+        "end_page": 47
+      },
+      {
+        "name": "Senegal",
+        "true_page": 47,
+        "end_page": 47
+      },
+      {
+        "name": "Liberia",
+        "true_page": 47,
+        "end_page": 47
+      },
+      {
+        "name": "Peru",
+        "true_page": 50,
+        "end_page": 51
+      },
+      {
+        "name": "Colombia",
+        "true_page": 51,
+        "end_page": 52
+      },
+      {
+        "name": "Mexico",
+        "true_page": 52,
+        "end_page": 52
+      },
+      {
+        "name": "Guatemala",
+        "true_page": 52,
+        "end_page": 52
+      },
+      {
+        "name": "Azerbaijan",
+        "true_page": 56,
+        "end_page": 57
+      },
+      {
+        "name": "Bosnia And Herzegovina",
+        "true_page": 57,
+        "end_page": 58
+      },
+      {
+        "name": "Cyprus",
+        "true_page": 58,
+        "end_page": 59
+      },
+      {
+        "name": "Georgia",
+        "true_page": 59,
+        "end_page": 60
+      },
+      {
+        "name": "Russia",
+        "true_page": 60,
+        "end_page": 61
+      },
+      {
+        "name": "Turkey",
+        "true_page": 61,
+        "end_page": 62
+      },
+      {
+        "name": "Armenia",
+        "true_page": 62,
+        "end_page": 62
+      },
+      {
+        "name": "Croatia",
+        "true_page": 62,
+        "end_page": 63
+      },
+      {
+        "name": "Serbia",
+        "true_page": 63,
+        "end_page": 63
+      },
+      {
+        "name": "Kosovo",
+        "true_page": 63,
+        "end_page": 63
+      },
+      {
+        "name": "Iraq",
+        "true_page": 67,
+        "end_page": 68
+      },
+      {
+        "name": "Lebanon",
+        "true_page": 68,
+        "end_page": 69
+      },
+      {
+        "name": "Occupied Palestinian Territory",
+        "true_page": 69,
+        "end_page": 70
+      },
+      {
+        "name": "Yemen",
+        "true_page": 70,
+        "end_page": 71
+      },
+      {
+        "name": "Israel",
+        "true_page": 71,
+        "end_page": 71
+      },
+      {
+        "name": "Syria",
+        "true_page": 71,
+        "end_page": 71
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 76,
+        "end_page": 77
+      },
+      {
+        "name": "Bangladesh",
+        "true_page": 77,
+        "end_page": 78
+      },
+      {
+        "name": "India",
+        "true_page": 78,
+        "end_page": 79
+      },
+      {
+        "name": "Indonesia",
+        "true_page": 79,
+        "end_page": 80
+      },
+      {
+        "name": "Myanmar",
+        "true_page": 80,
+        "end_page": 81
+      },
+      {
+        "name": "Nepal",
+        "true_page": 81,
+        "end_page": 82
+      },
+      {
+        "name": "Pakistan",
+        "true_page": 82,
+        "end_page": 83
+      },
+      {
+        "name": "Philippines",
+        "true_page": 83,
+        "end_page": 84
+      },
+      {
+        "name": "Sri Lanka",
+        "true_page": 84,
+        "end_page": 85
+      },
+      {
+        "name": "Timor-Leste",
+        "true_page": 85,
+        "end_page": 85
+      }
+    ]
+  },
+  "2010_Global.pdf": {
+    "source_path": "input/wr/idmc/2010_Global.pdf",
+    "countries": [
+      {
+        "name": "Durable solutions",
+        "true_page": 28,
+        "end_page": 32
+      },
+      {
+        "name": "National Responses",
+        "true_page": 32,
+        "end_page": 35
+      },
+      {
+        "name": "Algeria",
+        "true_page": 40,
+        "end_page": 41
+      },
+      {
+        "name": "Burundi",
+        "true_page": 41,
+        "end_page": 42
+      },
+      {
+        "name": "Car",
+        "true_page": 42,
+        "end_page": 43
+      },
+      {
+        "name": "Chad",
+        "true_page": 43,
+        "end_page": 44
+      },
+      {
+        "name": "Cote D'Ivoire",
+        "true_page": 44,
+        "end_page": 45
+      },
+      {
+        "name": "Drc",
+        "true_page": 45,
+        "end_page": 46
+      },
+      {
+        "name": "Eritrea",
+        "true_page": 46,
+        "end_page": 47
+      },
+      {
+        "name": "Ethiopia",
+        "true_page": 47,
+        "end_page": 48
+      },
+      {
+        "name": "Kenya",
+        "true_page": 48,
+        "end_page": 49
+      },
+      {
+        "name": "Liberia",
+        "true_page": 49,
+        "end_page": 49
+      },
+      {
+        "name": "Niger",
+        "true_page": 49,
+        "end_page": 50
+      },
+      {
+        "name": "Nigeria",
+        "true_page": 50,
+        "end_page": 51
+      },
+      {
+        "name": "Senegal",
+        "true_page": 51,
+        "end_page": 52
+      },
+      {
+        "name": "Somalia",
+        "true_page": 52,
+        "end_page": 53
+      },
+      {
+        "name": "Sudan",
+        "true_page": 53,
+        "end_page": 55
+      },
+      {
+        "name": "Uganda",
+        "true_page": 55,
+        "end_page": 56
+      },
+      {
+        "name": "Zimbabwe",
+        "true_page": 56,
+        "end_page": 56
+      },
+      {
+        "name": "Armenia",
+        "true_page": 61,
+        "end_page": 61
+      },
+      {
+        "name": "Azerbaijan",
+        "true_page": 61,
+        "end_page": 62
+      },
+      {
+        "name": "Bosnia And Herzegovina",
+        "true_page": 62,
+        "end_page": 63
+      },
+      {
+        "name": "Croatia",
+        "true_page": 63,
+        "end_page": 63
+      },
+      {
+        "name": "Cyprus",
+        "true_page": 63,
+        "end_page": 64
+      },
+      {
+        "name": "Georgia",
+        "true_page": 64,
+        "end_page": 65
+      },
+      {
+        "name": "Kosovo",
+        "true_page": 65,
+        "end_page": 65
+      },
+      {
+        "name": "Kyrgyzstan",
+        "true_page": 65,
+        "end_page": 66
+      },
+      {
+        "name": "Russia",
+        "true_page": 66,
+        "end_page": 67
+      },
+      {
+        "name": "Serbia",
+        "true_page": 67,
+        "end_page": 68
+      },
+      {
+        "name": "Turkey",
+        "true_page": 68,
+        "end_page": 68
+      },
+      {
+        "name": "Colombia",
+        "true_page": 72,
+        "end_page": 73
+      },
+      {
+        "name": "Guatemala",
+        "true_page": 73,
+        "end_page": 73
+      },
+      {
+        "name": "Mexico",
+        "true_page": 73,
+        "end_page": 74
+      },
+      {
+        "name": "Peru",
+        "true_page": 74,
+        "end_page": 74
+      },
+      {
+        "name": "Iraq",
+        "true_page": 78,
+        "end_page": 79
+      },
+      {
+        "name": "Lebanon",
+        "true_page": 79,
+        "end_page": 80
+      },
+      {
+        "name": "Occupied Palestinian Territory",
+        "true_page": 80,
+        "end_page": 81
+      },
+      {
+        "name": "Syria",
+        "true_page": 81,
+        "end_page": 82
+      },
+      {
+        "name": "Yemen",
+        "true_page": 82,
+        "end_page": 82
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 87,
+        "end_page": 88
+      },
+      {
+        "name": "Bangladesh",
+        "true_page": 88,
+        "end_page": 88
+      },
+      {
+        "name": "India",
+        "true_page": 88,
+        "end_page": 89
+      },
+      {
+        "name": "Indonesia",
+        "true_page": 89,
+        "end_page": 90
+      },
+      {
+        "name": "Myanmar",
+        "true_page": 91,
+        "end_page": 92
+      },
+      {
+        "name": "Nepal",
+        "true_page": 92,
+        "end_page": 92
+      },
+      {
+        "name": "Pakistan",
+        "true_page": 92,
+        "end_page": 93
+      },
+      {
+        "name": "Philippines",
+        "true_page": 93,
+        "end_page": 94
+      },
+      {
+        "name": "Sri Lanka",
+        "true_page": 94,
+        "end_page": 95
+      },
+      {
+        "name": "Timor-Leste",
+        "true_page": 95,
+        "end_page": 95
+      }
+    ]
+  },
+  "2011_Conflict and violence.pdf": {
+    "source_path": "input/wr/idmc/2011_Conflict and violence.pdf",
+    "countries": [
+      {
+        "name": "Preventing and responding to abuses",
+        "true_page": 24,
+        "end_page": 28
+      },
+      {
+        "name": "Recovering dignity and self-sufficiency",
+        "true_page": 28,
+        "end_page": 32
+      },
+      {
+        "name": "Burundi",
+        "true_page": 41,
+        "end_page": 42
+      },
+      {
+        "name": "Car",
+        "true_page": 42,
+        "end_page": 43
+      },
+      {
+        "name": "Chad",
+        "true_page": 43,
+        "end_page": 44
+      },
+      {
+        "name": "Cote D'Ivoire",
+        "true_page": 44,
+        "end_page": 45
+      },
+      {
+        "name": "Drc",
+        "true_page": 45,
+        "end_page": 46
+      },
+      {
+        "name": "Ethiopia",
+        "true_page": 46,
+        "end_page": 47
+      },
+      {
+        "name": "Kenya",
+        "true_page": 47,
+        "end_page": 48
+      },
+      {
+        "name": "Liberia",
+        "true_page": 48,
+        "end_page": 48
+      },
+      {
+        "name": "Niger",
+        "true_page": 48,
+        "end_page": 49
+      },
+      {
+        "name": "Nigeria",
+        "true_page": 49,
+        "end_page": 50
+      },
+      {
+        "name": "Senegal",
+        "true_page": 50,
+        "end_page": 50
+      },
+      {
+        "name": "Somalia",
+        "true_page": 50,
+        "end_page": 51
+      },
+      {
+        "name": "South Sudan",
+        "true_page": 51,
+        "end_page": 52
+      },
+      {
+        "name": "Sudan",
+        "true_page": 52,
+        "end_page": 53
+      },
+      {
+        "name": "Uganda",
+        "true_page": 53,
+        "end_page": 54
+      },
+      {
+        "name": "Zimbabwe",
+        "true_page": 54,
+        "end_page": 54
+      },
+      {
+        "name": "Colombia",
+        "true_page": 58,
+        "end_page": 59
+      },
+      {
+        "name": "Guatemala",
+        "true_page": 59,
+        "end_page": 59
+      },
+      {
+        "name": "Mexico",
+        "true_page": 59,
+        "end_page": 60
+      },
+      {
+        "name": "Peru",
+        "true_page": 60,
+        "end_page": 60
+      },
+      {
+        "name": "Armenia",
+        "true_page": 64,
+        "end_page": 65
+      },
+      {
+        "name": "Azerbaijan",
+        "true_page": 65,
+        "end_page": 66
+      },
+      {
+        "name": "Bosnia And Herzegovina",
+        "true_page": 66,
+        "end_page": 66
+      },
+      {
+        "name": "Cyprus",
+        "true_page": 66,
+        "end_page": 67
+      },
+      {
+        "name": "Georgia",
+        "true_page": 67,
+        "end_page": 68
+      },
+      {
+        "name": "Kosovo",
+        "true_page": 68,
+        "end_page": 68
+      },
+      {
+        "name": "Kyrgyzstan",
+        "true_page": 68,
+        "end_page": 69
+      },
+      {
+        "name": "Russia",
+        "true_page": 69,
+        "end_page": 70
+      },
+      {
+        "name": "Serbia",
+        "true_page": 70,
+        "end_page": 71
+      },
+      {
+        "name": "Turkey",
+        "true_page": 71,
+        "end_page": 71
+      },
+      {
+        "name": "Iraq",
+        "true_page": 75,
+        "end_page": 76
+      },
+      {
+        "name": "Lebanon",
+        "true_page": 76,
+        "end_page": 77
+      },
+      {
+        "name": "Libya",
+        "true_page": 77,
+        "end_page": 78
+      },
+      {
+        "name": "Occupied Palestinian Territory",
+        "true_page": 78,
+        "end_page": 79
+      },
+      {
+        "name": "Syria",
+        "true_page": 79,
+        "end_page": 80
+      },
+      {
+        "name": "Yemen",
+        "true_page": 80,
+        "end_page": 80
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 85,
+        "end_page": 86
+      },
+      {
+        "name": "Bangladesh",
+        "true_page": 86,
+        "end_page": 86
+      },
+      {
+        "name": "India",
+        "true_page": 86,
+        "end_page": 87
+      },
+      {
+        "name": "Indonesia",
+        "true_page": 87,
+        "end_page": 88
+      },
+      {
+        "name": "Myanmar",
+        "true_page": 88,
+        "end_page": 89
+      },
+      {
+        "name": "Nepal",
+        "true_page": 89,
+        "end_page": 90
+      },
+      {
+        "name": "Pakistan",
+        "true_page": 90,
+        "end_page": 91
+      },
+      {
+        "name": "Philippines",
+        "true_page": 91,
+        "end_page": 92
+      },
+      {
+        "name": "Sri Lanka",
+        "true_page": 92,
+        "end_page": 93
+      },
+      {
+        "name": "Thailand",
+        "true_page": 93,
+        "end_page": 93
+      },
+      {
+        "name": "Timor-Leste",
+        "true_page": 93,
+        "end_page": 93
+      }
+    ]
+  },
+  "2012_Global.pdf": {
+    "source_path": "input/wr/idmc/2012_Global.pdf",
+    "countries": [
+      {
+        "name": "Burundi",
+        "true_page": 20,
+        "end_page": 20
+      },
+      {
+        "name": "Car",
+        "true_page": 20,
+        "end_page": 21
+      },
+      {
+        "name": "Chad",
+        "true_page": 21,
+        "end_page": 22
+      },
+      {
+        "name": "Cote D'Ivoire",
+        "true_page": 22,
+        "end_page": 23
+      },
+      {
+        "name": "Drc",
+        "true_page": 23,
+        "end_page": 24
+      },
+      {
+        "name": "Ethiopia",
+        "true_page": 24,
+        "end_page": 25
+      },
+      {
+        "name": "Kenya",
+        "true_page": 25,
+        "end_page": 26
+      },
+      {
+        "name": "Liberia",
+        "true_page": 26,
+        "end_page": 26
+      },
+      {
+        "name": "Mali",
+        "true_page": 26,
+        "end_page": 27
+      },
+      {
+        "name": "Nigeria",
+        "true_page": 27,
+        "end_page": 28
+      },
+      {
+        "name": "Senegal",
+        "true_page": 28,
+        "end_page": 29
+      },
+      {
+        "name": "Somalia",
+        "true_page": 29,
+        "end_page": 30
+      },
+      {
+        "name": "South Sudan",
+        "true_page": 30,
+        "end_page": 31
+      },
+      {
+        "name": "Sudan",
+        "true_page": 31,
+        "end_page": 32
+      },
+      {
+        "name": "Uganda",
+        "true_page": 32,
+        "end_page": 32
+      },
+      {
+        "name": "Zimbabwe",
+        "true_page": 32,
+        "end_page": 33
+      },
+      {
+        "name": "Colombia",
+        "true_page": 38,
+        "end_page": 39
+      },
+      {
+        "name": "Mexico",
+        "true_page": 39,
+        "end_page": 40
+      },
+      {
+        "name": "Peru",
+        "true_page": 40,
+        "end_page": 40
+      },
+      {
+        "name": "Azerbaijan",
+        "true_page": 45,
+        "end_page": 46
+      },
+      {
+        "name": "Bosnia And Herzegovina",
+        "true_page": 46,
+        "end_page": 46
+      },
+      {
+        "name": "Georgia",
+        "true_page": 46,
+        "end_page": 47
+      },
+      {
+        "name": "Kosovo",
+        "true_page": 47,
+        "end_page": 48
+      },
+      {
+        "name": "Kyrgyzstan",
+        "true_page": 48,
+        "end_page": 49
+      },
+      {
+        "name": "Russia",
+        "true_page": 49,
+        "end_page": 50
+      },
+      {
+        "name": "Serbia",
+        "true_page": 50,
+        "end_page": 51
+      },
+      {
+        "name": "Turkey",
+        "true_page": 51,
+        "end_page": 51
+      },
+      {
+        "name": "Iraq",
+        "true_page": 56,
+        "end_page": 57
+      },
+      {
+        "name": "Lebanon",
+        "true_page": 57,
+        "end_page": 57
+      },
+      {
+        "name": "Libya",
+        "true_page": 57,
+        "end_page": 58
+      },
+      {
+        "name": "Occupied Palestinian Territory",
+        "true_page": 58,
+        "end_page": 59
+      },
+      {
+        "name": "Syria",
+        "true_page": 59,
+        "end_page": 60
+      },
+      {
+        "name": "Yemen",
+        "true_page": 60,
+        "end_page": 60
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 65,
+        "end_page": 66
+      },
+      {
+        "name": "Bangladesh",
+        "true_page": 66,
+        "end_page": 66
+      },
+      {
+        "name": "India",
+        "true_page": 66,
+        "end_page": 67
+      },
+      {
+        "name": "Indonesia",
+        "true_page": 67,
+        "end_page": 68
+      },
+      {
+        "name": "Myanmar",
+        "true_page": 68,
+        "end_page": 69
+      },
+      {
+        "name": "Nepal",
+        "true_page": 69,
+        "end_page": 70
+      },
+      {
+        "name": "Pakistan",
+        "true_page": 70,
+        "end_page": 71
+      },
+      {
+        "name": "Philippines",
+        "true_page": 71,
+        "end_page": 72
+      },
+      {
+        "name": "Sri Lanka",
+        "true_page": 72,
+        "end_page": 73
+      },
+      {
+        "name": "Thailand",
+        "true_page": 73,
+        "end_page": 73
+      }
+    ]
+  },
+  "2014(2013)_Conflict and Violence.pdf": {
+    "source_path": "input/wr/idmc/2014(2013)_Conflict and Violence.pdf",
+    "countries": [
+      {
+        "name": "Burundi",
+        "true_page": 24,
+        "end_page": 24
+      },
+      {
+        "name": "Car",
+        "true_page": 24,
+        "end_page": 25
+      },
+      {
+        "name": "Chad",
+        "true_page": 25,
+        "end_page": 26
+      },
+      {
+        "name": "Cote D'Ivoire",
+        "true_page": 26,
+        "end_page": 27
+      },
+      {
+        "name": "Drc",
+        "true_page": 27,
+        "end_page": 28
+      },
+      {
+        "name": "Ethiopia",
+        "true_page": 28,
+        "end_page": 28
+      },
+      {
+        "name": "Kenya",
+        "true_page": 28,
+        "end_page": 29
+      },
+      {
+        "name": "Liberia",
+        "true_page": 29,
+        "end_page": 30
+      },
+      {
+        "name": "Mali",
+        "true_page": 30,
+        "end_page": 31
+      },
+      {
+        "name": "Nigeria",
+        "true_page": 31,
+        "end_page": 32
+      },
+      {
+        "name": "Senegal",
+        "true_page": 32,
+        "end_page": 33
+      },
+      {
+        "name": "Somalia",
+        "true_page": 33,
+        "end_page": 34
+      },
+      {
+        "name": "South Sudan",
+        "true_page": 34,
+        "end_page": 35
+      },
+      {
+        "name": "Sudan",
+        "true_page": 35,
+        "end_page": 36
+      },
+      {
+        "name": "Uganda",
+        "true_page": 36,
+        "end_page": 36
+      },
+      {
+        "name": "Zimbabwe",
+        "true_page": 36,
+        "end_page": 37
+      },
+      {
+        "name": "Colombia",
+        "true_page": 41,
+        "end_page": 42
+      },
+      {
+        "name": "Honduras",
+        "true_page": 42,
+        "end_page": 43
+      },
+      {
+        "name": "Mexico",
+        "true_page": 43,
+        "end_page": 44
+      },
+      {
+        "name": "Peru",
+        "true_page": 44,
+        "end_page": 44
+      },
+      {
+        "name": "Azerbaijan",
+        "true_page": 49,
+        "end_page": 50
+      },
+      {
+        "name": "Bosnia And Herzegovina",
+        "true_page": 50,
+        "end_page": 51
+      },
+      {
+        "name": "Georgia",
+        "true_page": 51,
+        "end_page": 52
+      },
+      {
+        "name": "Kosovo",
+        "true_page": 52,
+        "end_page": 53
+      },
+      {
+        "name": "Russia",
+        "true_page": 53,
+        "end_page": 54
+      },
+      {
+        "name": "Serbia",
+        "true_page": 54,
+        "end_page": 55
+      },
+      {
+        "name": "Turkey",
+        "true_page": 55,
+        "end_page": 55
+      },
+      {
+        "name": "Iraq",
+        "true_page": 60,
+        "end_page": 61
+      },
+      {
+        "name": "Lebanon",
+        "true_page": 61,
+        "end_page": 61
+      },
+      {
+        "name": "Libya",
+        "true_page": 61,
+        "end_page": 62
+      },
+      {
+        "name": "Palestine",
+        "true_page": 62,
+        "end_page": 63
+      },
+      {
+        "name": "Syria",
+        "true_page": 63,
+        "end_page": 64
+      },
+      {
+        "name": "Yemen",
+        "true_page": 64,
+        "end_page": 64
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 69,
+        "end_page": 70
+      },
+      {
+        "name": "Bangladesh",
+        "true_page": 70,
+        "end_page": 70
+      },
+      {
+        "name": "India",
+        "true_page": 70,
+        "end_page": 71
+      },
+      {
+        "name": "Indonesia",
+        "true_page": 71,
+        "end_page": 72
+      },
+      {
+        "name": "Myanmar",
+        "true_page": 72,
+        "end_page": 73
+      },
+      {
+        "name": "Nepal",
+        "true_page": 73,
+        "end_page": 74
+      },
+      {
+        "name": "Pakistan",
+        "true_page": 74,
+        "end_page": 75
+      },
+      {
+        "name": "Philippines",
+        "true_page": 75,
+        "end_page": 76
+      },
+      {
+        "name": "Sri Lanka",
+        "true_page": 76,
+        "end_page": 77
+      },
+      {
+        "name": "Thailand",
+        "true_page": 77,
+        "end_page": 77
+      }
+    ]
+  },
+  "2015(2014)_Conflict and Violence.pdf": {
+    "source_path": "input/wr/idmc/2015(2014)_Conflict and Violence.pdf",
+    "countries": [
+      {
+        "name": "Americas",
+        "true_page": 18,
+        "end_page": 22
+      },
+      {
+        "name": "Colombia",
+        "true_page": 22,
+        "end_page": 24
+      },
+      {
+        "name": "Central Africa",
+        "true_page": 24,
+        "end_page": 28
+      },
+      {
+        "name": "Drc",
+        "true_page": 28,
+        "end_page": 30
+      },
+      {
+        "name": "East Africa",
+        "true_page": 30,
+        "end_page": 34
+      },
+      {
+        "name": "Kenya",
+        "true_page": 34,
+        "end_page": 36
+      },
+      {
+        "name": "West Africa",
+        "true_page": 36,
+        "end_page": 40
+      },
+      {
+        "name": "Middle East And North Africa",
+        "true_page": 40,
+        "end_page": 44
+      },
+      {
+        "name": "Occupied Palestine",
+        "true_page": 44,
+        "end_page": 46
+      },
+      {
+        "name": "Europe, The Caucasus, And Central Asia",
+        "true_page": 46,
+        "end_page": 50
+      },
+      {
+        "name": "Bosnia And Herzegovina",
+        "true_page": 50,
+        "end_page": 52
+      },
+      {
+        "name": "South Asia",
+        "true_page": 52,
+        "end_page": 56
+      },
+      {
+        "name": "Sri Lanka",
+        "true_page": 56,
+        "end_page": 58
+      },
+      {
+        "name": "South-East Asia",
+        "true_page": 58,
+        "end_page": 62
+      },
+      {
+        "name": "Philippines",
+        "true_page": 62,
+        "end_page": 63
+      }
+    ]
+  },
+  "2016(2015)_Global.pdf": {
+    "source_path": "input/wr/idmc/2016(2015)_Global.pdf",
+    "countries": [
+      {
+        "name": "Yemen",
+        "true_page": 15,
+        "end_page": 21
+      },
+      {
+        "name": "Nepal",
+        "true_page": 21,
+        "end_page": 32
+      },
+      {
+        "name": "Drc",
+        "true_page": 32,
+        "end_page": 41
+      },
+      {
+        "name": "Syria",
+        "true_page": 41,
+        "end_page": 51
+      },
+      {
+        "name": "Honduras",
+        "true_page": 51,
+        "end_page": 60
+      },
+      {
+        "name": "Ethiopia",
+        "true_page": 60,
+        "end_page": 61
+      }
+    ]
+  },
+  "2017(2016)_Global_Report.pdf": {
+    "source_path": "input/wr/idmc/2017(2016)_Global_Report.pdf",
+    "countries": [
+      {
+        "name": "Drc",
+        "true_page": 18,
+        "end_page": 21
+      },
+      {
+        "name": "Syria",
+        "true_page": 21,
+        "end_page": 23
+      },
+      {
+        "name": "Iraq",
+        "true_page": 23,
+        "end_page": 26
+      },
+      {
+        "name": "El Salvador",
+        "true_page": 26,
+        "end_page": 33
+      },
+      {
+        "name": "Colombia",
+        "true_page": 33,
+        "end_page": 44
+      },
+      {
+        "name": "Horn Of Africa",
+        "true_page": 44,
+        "end_page": 61
+      },
+      {
+        "name": "South Sudan",
+        "true_page": 61,
+        "end_page": 65
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 65,
+        "end_page": 68
+      },
+      {
+        "name": "Somalia",
+        "true_page": 68,
+        "end_page": 69
+      }
+    ]
+  },
+  "2018(2017)_GRID.pdf": {
+    "source_path": "input/wr/idmc/2018(2017)_GRID.pdf",
+    "countries": [
+      {
+        "name": "The year in focus",
+        "true_page": 18,
+        "end_page": 25
+      },
+      {
+        "name": "Sub-Saharan Africa",
+        "true_page": 27,
+        "end_page": 30
+      },
+      {
+        "name": "Drc",
+        "true_page": 30,
+        "end_page": 31
+      },
+      {
+        "name": "Lake Chad Basin",
+        "true_page": 31,
+        "end_page": 32
+      },
+      {
+        "name": "Middle East And North Africa",
+        "true_page": 32,
+        "end_page": 34
+      },
+      {
+        "name": "Syria",
+        "true_page": 34,
+        "end_page": 36
+      },
+      {
+        "name": "Yemen",
+        "true_page": 36,
+        "end_page": 38
+      },
+      {
+        "name": "East Asia And Pacific",
+        "true_page": 38,
+        "end_page": 40
+      },
+      {
+        "name": "Indonesia And Vanuatu",
+        "true_page": 40,
+        "end_page": 42
+      },
+      {
+        "name": "Viet Nam",
+        "true_page": 42,
+        "end_page": 44
+      },
+      {
+        "name": "South Asia",
+        "true_page": 44,
+        "end_page": 46
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 46,
+        "end_page": 48
+      },
+      {
+        "name": "Americas",
+        "true_page": 48,
+        "end_page": 50
+      },
+      {
+        "name": "Northern Triangle Of Central America",
+        "true_page": 50,
+        "end_page": 52
+      },
+      {
+        "name": "The Atlantic Hurricane Season",
+        "true_page": 52,
+        "end_page": 55
+      },
+      {
+        "name": "Europe And Central Asia",
+        "true_page": 55,
+        "end_page": 57
+      },
+      {
+        "name": "Ukraine",
+        "true_page": 57
+      }
+    ]
+  },
+  "2019(2018)_GRID.pdf": {
+    "source_path": "input/wr/idmc/2019(2018)_GRID.pdf",
+    "countries": [
+      {
+        "name": "Sub-Saharan Africa",
+        "true_page": 19,
+        "end_page": 24
+      },
+      {
+        "name": "Ethiopia",
+        "true_page": 24,
+        "end_page": 26
+      },
+      {
+        "name": "Cameroon",
+        "true_page": 26,
+        "end_page": 28
+      },
+      {
+        "name": "Nigeria",
+        "true_page": 28,
+        "end_page": 30
+      },
+      {
+        "name": "Middle East And North Africa",
+        "true_page": 30,
+        "end_page": 34
+      },
+      {
+        "name": "Syria_A",
+        "true_page": 34,
+        "end_page": 36
+      },
+      {
+        "name": "Libya",
+        "true_page": 36,
+        "end_page": 38
+      },
+      {
+        "name": "East Asia And Pacific",
+        "true_page": 38,
+        "end_page": 40
+      },
+      {
+        "name": "Japan",
+        "true_page": 40,
+        "end_page": 42
+      },
+      {
+        "name": "Philippines",
+        "true_page": 42,
+        "end_page": 44
+      },
+      {
+        "name": "South Asia",
+        "true_page": 44,
+        "end_page": 46
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 46,
+        "end_page": 48
+      },
+      {
+        "name": "India",
+        "true_page": 48,
+        "end_page": 49
+      },
+      {
+        "name": "Americas",
+        "true_page": 49,
+        "end_page": 52
+      },
+      {
+        "name": "United States",
+        "true_page": 52,
+        "end_page": 54
+      },
+      {
+        "name": "Colombia",
+        "true_page": 54,
+        "end_page": 56
+      },
+      {
+        "name": "Europe And Central Asia",
+        "true_page": 56,
+        "end_page": 62
+      },
+      {
+        "name": "Medellin And San Salvador",
+        "true_page": 91,
+        "end_page": 94
+      },
+      {
+        "name": "Flood Displacement Risk",
+        "true_page": 94,
+        "end_page": 98
+      },
+      {
+        "name": "Nairobi",
+        "true_page": 98,
+        "end_page": 100
+      },
+      {
+        "name": "Displacement Profiling In Urban Areas",
+        "true_page": 100,
+        "end_page": 106
+      },
+      {
+        "name": "Syria_B",
+        "true_page": 106
+      }
+    ]
+  },
+  "2020(2019)_GRID.pdf": {
+    "source_path": "input/wr/idmc/2020(2019)_GRID.pdf",
+    "countries": [
+      {
+        "name": "Sub-Saharan Africa",
+        "true_page": 24,
+        "end_page": 32
+      },
+      {
+        "name": "The Sahel",
+        "true_page": 32,
+        "end_page": 34
+      },
+      {
+        "name": "Mozambique",
+        "true_page": 34,
+        "end_page": 36
+      },
+      {
+        "name": "White Nile Basin",
+        "true_page": 36,
+        "end_page": 38
+      },
+      {
+        "name": "Middle East And North Africa",
+        "true_page": 38,
+        "end_page": 44
+      },
+      {
+        "name": "Syria",
+        "true_page": 44,
+        "end_page": 46
+      },
+      {
+        "name": "Iraq",
+        "true_page": 46,
+        "end_page": 48
+      },
+      {
+        "name": "East Asia And Pacific",
+        "true_page": 48,
+        "end_page": 54
+      },
+      {
+        "name": "Myanmar",
+        "true_page": 54,
+        "end_page": 56
+      },
+      {
+        "name": "South Asia",
+        "true_page": 56,
+        "end_page": 61
+      },
+      {
+        "name": "Americas",
+        "true_page": 61,
+        "end_page": 68
+      },
+      {
+        "name": "Venezuela",
+        "true_page": 68,
+        "end_page": 70
+      },
+      {
+        "name": "The Bahamas",
+        "true_page": 70,
+        "end_page": 72
+      },
+      {
+        "name": "Europe And Central Asia",
+        "true_page": 72,
+        "end_page": 77
+      },
+      {
+        "name": "Ending Internal Displacement",
+        "true_page": 77,
+        "end_page": 88
+      },
+      {
+        "name": "Philippines",
+        "true_page": 92
+      }
+    ]
+  },
+  "2021(2020)_GRID.pdf": {
+    "source_path": "intermediate/unsplit/idmc/2021(2020)_GRID.pdf",
+    "countries": [
+      {
+        "name": "Sub-Saharan Africa",
+        "true_page": 30,
+        "end_page": 36
+      },
+      {
+        "name": "Burkina Faso",
+        "true_page": 36,
+        "end_page": 37
+      },
+      {
+        "name": "Mozambique",
+        "true_page": 38,
+        "end_page": 39
+      },
+      {
+        "name": "Middle East And North Africa",
+        "true_page": 40,
+        "end_page": 45
+      },
+      {
+        "name": "Syria",
+        "true_page": 46,
+        "end_page": 47
+      },
+      {
+        "name": "Yemen",
+        "true_page": 48,
+        "end_page": 49
+      },
+      {
+        "name": "East Asia And Pacific",
+        "true_page": 50,
+        "end_page": 55
+      },
+      {
+        "name": "Storms In East Asia And Pacific",
+        "true_page": 56,
+        "end_page": 57
+      },
+      {
+        "name": "South Asia",
+        "true_page": 58,
+        "end_page": 63
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 64,
+        "end_page": 65
+      },
+      {
+        "name": "Americas",
+        "true_page": 66,
+        "end_page": 70
+      },
+      {
+        "name": "Atlantic Hurricane Season",
+        "true_page": 72,
+        "end_page": 73
+      },
+      {
+        "name": "Europe And Central Asia",
+        "true_page": 74,
+        "end_page": 77
+      }
+    ]
+  },
+  "2022(2021)_GRID.pdf": {
+    "source_path": "intermediate/unsplit/idmc/2022(2021)_GRID.pdf",
+    "countries": [
+      {
+        "name": "Sub-Saharan Africa",
+        "true_page": 36,
+        "end_page": 44
+      },
+      {
+        "name": "Ethiopia",
+        "true_page": 46,
+        "end_page": 47
+      },
+      {
+        "name": "Sudan",
+        "true_page": 48,
+        "end_page": 49
+      },
+      {
+        "name": "Middle East And North Africa",
+        "true_page": 50,
+        "end_page": 55
+      },
+      {
+        "name": "Palestine",
+        "true_page": 56,
+        "end_page": 57
+      },
+      {
+        "name": "East Asia And Pacific",
+        "true_page": 58,
+        "end_page": 64
+      },
+      {
+        "name": "China",
+        "true_page": 66,
+        "end_page": 67
+      },
+      {
+        "name": "Myanmar",
+        "true_page": 68,
+        "end_page": 69
+      },
+      {
+        "name": "Papua New Guinea",
+        "true_page": 70,
+        "end_page": 71
+      },
+      {
+        "name": "South Asia",
+        "true_page": 72,
+        "end_page": 77
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 78,
+        "end_page": 79
+      },
+      {
+        "name": "Americas",
+        "true_page": 80,
+        "end_page": 85
+      },
+      {
+        "name": "Haiti",
+        "true_page": 86,
+        "end_page": 87
+      },
+      {
+        "name": "Europe And Central Asia",
+        "true_page": 88,
+        "end_page": 93
+      },
+      {
+        "name": "Germany",
+        "true_page": 94,
+        "end_page": 95
+      },
+      {
+        "name": "Central Asia",
+        "true_page": 96,
+        "end_page": 97
+      }
+    ]
+  },
+  "2023(2022)_GRID.pdf": {
+    "source_path": "intermediate/unsplit/idmc/2023(2022)_GRID.pdf",
+    "countries": [
+      {
+        "name": "Sub-Saharan Africa",
+        "true_page": 22,
+        "end_page": 33
+      },
+      {
+        "name": "Drc",
+        "true_page": 34,
+        "end_page": 35
+      },
+      {
+        "name": "Somalia",
+        "true_page": 36,
+        "end_page": 37
+      },
+      {
+        "name": "Madagascar",
+        "true_page": 38,
+        "end_page": 39
+      },
+      {
+        "name": "Middle East And North Africa",
+        "true_page": 40,
+        "end_page": 49
+      },
+      {
+        "name": "Yemen",
+        "true_page": 50,
+        "end_page": 51
+      },
+      {
+        "name": "East Asia And The Pacific",
+        "true_page": 52,
+        "end_page": 58
+      },
+      {
+        "name": "Myanmar",
+        "true_page": 60,
+        "end_page": 61
+      },
+      {
+        "name": "Philippines",
+        "true_page": 62,
+        "end_page": 63
+      },
+      {
+        "name": "Tonga",
+        "true_page": 64,
+        "end_page": 65
+      },
+      {
+        "name": "South Asia",
+        "true_page": 66,
+        "end_page": 74
+      },
+      {
+        "name": "Pakistan",
+        "true_page": 76,
+        "end_page": 77
+      },
+      {
+        "name": "Americas",
+        "true_page": 78,
+        "end_page": 87
+      },
+      {
+        "name": "Europe And Central Asia",
+        "true_page": 88,
+        "end_page": 93
+      },
+      {
+        "name": "Ukraine",
+        "true_page": 94,
+        "end_page": 96
+      },
+      {
+        "name": "Burkina Faso",
+        "true_page": 104,
+        "end_page": 107
+      },
+      {
+        "name": "South Sudan",
+        "true_page": 108,
+        "end_page": 108
+      }
+    ]
+  },
+  "2024(2023)_GRID.pdf": {
+    "source_path": "intermediate/unsplit/idmc/2024(2023)_GRID.pdf",
+    "countries": [
+      {
+        "name": "Sub-Saharan Africa",
+        "true_page": 30,
+        "end_page": 41
+      },
+      {
+        "name": "Sudan",
+        "true_page": 42,
+        "end_page": 45
+      },
+      {
+        "name": "Malawi",
+        "true_page": 46,
+        "end_page": 47
+      },
+      {
+        "name": "Middle East And North Africa",
+        "true_page": 48,
+        "end_page": 55
+      },
+      {
+        "name": "Palestine",
+        "true_page": 56,
+        "end_page": 57
+      },
+      {
+        "name": "Syria",
+        "true_page": 58,
+        "end_page": 59
+      },
+      {
+        "name": "Libya",
+        "true_page": 60,
+        "end_page": 61
+      },
+      {
+        "name": "East Asia And Pacific",
+        "true_page": 62,
+        "end_page": 71
+      },
+      {
+        "name": "New Zealand",
+        "true_page": 72,
+        "end_page": 73
+      },
+      {
+        "name": "The Philippines",
+        "true_page": 74,
+        "end_page": 75
+      },
+      {
+        "name": "South Asia",
+        "true_page": 76,
+        "end_page": 85
+      },
+      {
+        "name": "Afghanistan",
+        "true_page": 86,
+        "end_page": 87
+      },
+      {
+        "name": "Americas",
+        "true_page": 88,
+        "end_page": 97
+      },
+      {
+        "name": "Colombia",
+        "true_page": 98,
+        "end_page": 99
+      },
+      {
+        "name": "Canada",
+        "true_page": 100,
+        "end_page": 101
+      },
+      {
+        "name": "Europe And Central Asia",
+        "true_page": 102,
+        "end_page": 109
+      },
+      {
+        "name": "Türkiye",
+        "true_page": 110,
+        "end_page": 111
+      },
+      {
+        "name": "Ukraine",
+        "true_page": 112,
+        "end_page": 113
+      }
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "2023_GRID.pdf": [
+    { "name": "Sub-Saharan Africa", "true_page": 30 },
+    { "name": "Sudan", "true_page": 42 },
+    { "name": "Malawi", "true_page": 44 },
+    { "name": "Middle East And North Africa", "true_page": 46 },
+    { "name": "Palestine", "true_page": 56 },
+    { "name": "Syria", "true_page": 58 },
+    { "name": "Libya", "true_page": 60 },
+    { "name": "East Asia And Pacific", "true_page": 62 },
+    { "name": "New Zealand", "true_page": 72 },
+    { "name": "The Philippines", "true_page": 74 },
+    { "name": "South Asia", "true_page": 76 },
+    { "name": "Afghanistan", "true_page": 86 },
+    { "name": "Americas", "true_page": 88 },
+    { "name": "Colombia", "true_page": 98 },
+    { "name": "Canada", "true_page": 100 },
+    { "name": "Europe And Central Asia", "true_page": 102 },
+    { "name": "Türkiye", "true_page": 110 },
+    { "name": "Ukraine", "true_page": 112 }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+    "2004(2003)_World_Report_Human_Rights_Watch.pdf": [
+        {
+            "name": "Afghanistan",
+            "true_page": 71
+        },
+        {
+            "name": "Iraq",
+            "true_page": 103
+        },
+        {
+            "name": "Russia (Chechnya)",
+            "true_page": 131,
+            "end_page": 149
+        },
+        {
+            "name": "Balkans",
+            "true_page": 361,
+            "end_page": 386
+        }
+    ]
+}

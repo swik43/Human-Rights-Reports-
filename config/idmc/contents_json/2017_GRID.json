@@ -1,0 +1,20 @@
+{
+  "2017_GRID.pdf": [
+    { "name": "Sub-Saharan Africa", "true_page": 27 },
+    { "name": "DRC", "true_page": 30 },
+    { "name": "Lake Chad Basin", "true_page": 31 },
+    { "name": "Middle East And North Africa", "true_page": 32 },
+    { "name": "Syria", "true_page": 34 },
+    { "name": "Yemen", "true_page": 36 },
+    { "name": "East Asia And Pacific", "true_page": 38 },
+    { "name": "Indonesia And Vanuatu", "true_page": 40 },
+    { "name": "Viet Nam", "true_page": 42 },
+    { "name": "South Asia", "true_page": 44 },
+    { "name": "Afghanistan", "true_page": 46 },
+    { "name": "Americas", "true_page": 48 },
+    { "name": "Northern Triangle Of Central America", "true_page": 50 },
+    { "name": "The Atlantic Hurricane Season", "true_page": 52 },
+    { "name": "Europe And Central Asia", "true_page": 55 },
+    { "name": "Ukraine", "true_page": 57 }
+  ]
+}

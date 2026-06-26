@@ -1,0 +1,17 @@
+{
+  "2020_GRID.pdf": [
+    { "name": "Sub-Saharan Africa", "true_page": 30 },
+    { "name": "Burkina Faso", "true_page": 36 },
+    { "name": "Mozambique", "true_page": 38 },
+    { "name": "Middle East And North Africa", "true_page": 39 },
+    { "name": "Syria", "true_page": 46 },
+    { "name": "Yemen", "true_page": 48 },
+    { "name": "East Asia And Pacific", "true_page": 50 },
+    { "name": "Storms In East Asia And Pacific", "true_page": 56 },
+    { "name": "South Asia", "true_page": 58 },
+    { "name": "Afghanistan", "true_page": 64 },
+    { "name": "Americas", "true_page": 66 },
+    { "name": "Atlantic Hurricane Season", "true_page": 72 },
+    { "name": "Europe And Central Asia", "true_page": 74, "end_page": 77 }
+  ]
+}

@@ -1,0 +1,17 @@
+*.pdf
+*.rtf
+*.zip
+*.png
+.DS_Store
+.claude/worktrees*
+.venv/
+_tmp/*
+output/*
+prod_out/*
+input/*
+intermediate/*
+__pycache__/
+
+# Generated pipeline output — regenerate by running the pipeline
+manifests/*
+index.json

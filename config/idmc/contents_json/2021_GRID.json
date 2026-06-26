@@ -1,0 +1,20 @@
+{
+  "2021_GRID.pdf": [
+    { "name": "Sub-Saharan Africa", "true_page": 36 },
+    { "name": "Ethiopia", "true_page": 46 },
+    { "name": "Sudan", "true_page": 48 },
+    { "name": "Middle East And North Africa", "true_page": 50 },
+    { "name": "Palestine", "true_page": 56 },
+    { "name": "East Asia And Pacific", "true_page": 58 },
+    { "name": "China", "true_page": 66 },
+    { "name": "Myanmar", "true_page": 68 },
+    { "name": "Papua New Guinea", "true_page": 70 },
+    { "name": "South Asia", "true_page": 72 },
+    { "name": "Afghanistan", "true_page": 78 },
+    { "name": "Americas", "true_page": 80 },
+    { "name": "Haiti", "true_page": 86 },
+    { "name": "Europe And Central Asia", "true_page": 88 },
+    { "name": "Germany", "true_page": 94 },
+    { "name": "Central Asia", "true_page": 96 }
+  ]
+}

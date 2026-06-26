@@ -1,0 +1,19 @@
+{
+  "2019_GRID.pdf": [
+    { "name": "Sub-Saharan Africa", "true_page": 24 },
+    { "name": "The Sahel", "true_page": 32 },
+    { "name": "Mozambique", "true_page": 34 },
+    { "name": "White Nile Basin", "true_page": 36 },
+    { "name": "Middle East And North Africa", "true_page": 38 },
+    { "name": "Syria", "true_page": 44 },
+    { "name": "Iraq", "true_page": 46 },
+    { "name": "East Asia And Pacific", "true_page": 48 },
+    { "name": "Myanmar", "true_page": 54 },
+    { "name": "South Asia", "true_page": 56 },
+    { "name": "Americas", "true_page": 61 },
+    { "name": "Venezuela", "true_page": 68 },
+    { "name": "The Bahamas", "true_page": 70 },
+    { "name": "Europe And Central Asia", "true_page": 72 },
+    { "name": "Philippines", "true_page": 92 }
+  ]
+}
